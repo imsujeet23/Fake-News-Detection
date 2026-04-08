@@ -1,0 +1,8 @@
+.venv/
+.matplotlib/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/*.pkl
+outputs/*.png
+data/processed/*.csv
